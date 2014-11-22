@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>gfwlive</id>
+    <version>3.5.92.0</version>
+    <title>Games for Windows Live</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <projectUrl>http://marketplace.xbox.com/en-US/PC/Games</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Games for Windows Live is an online gaming service used by some games.</description>
+    <tags>windows drm marketplace gaming xbox games game</tags>
+  </metadata>
+</package>

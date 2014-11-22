@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>blobby2</id>
+    <version>1.0.3.0</version>
+    <title>Blobby Volley 2</title>
+    <authors>Daniel Knobe, Jonathan Sieber</authors>
+    <owners>Daniel Knobe, Jonathan Sieber</owners>
+    <projectUrl>http://blobby.sourceforge.net/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Official continuation of the famous Blobby Volley 1.x arcade game.</description>
+    <tags>gaming games game volleyball</tags>
+  </metadata>
+</package>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>dosbox</id>
+    <version>0.74.0.0</version>
+    <title>DOSBox</title>
+    <authors>DOSBox</authors>
+    <owners>Thai Phan</owners>
+    <licenseUrl>http://www.gnu.org/licenses/gpl-2.0.html</licenseUrl>
+    <projectUrl>http://www.dosbox.com/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DOSBox is an MS-DOS emulator used for playing old games.</description>
+    <tags>dos windows emulator gaming</tags>
+  </metadata>
+</package>

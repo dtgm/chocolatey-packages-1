@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>osu</id>
+    <version>1.0.0.0</version>
+    <title>osu!</title>
+    <authors>Dean Herbert</authors>
+    <owners>Thai Phan</owners>
+    <licenseUrl>http://osu.ppy.sh/p/terms</licenseUrl>
+    <projectUrl>http://osu.ppy.sh/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>osu! is a free-to-play online rhythm game.</description>
+    <tags>game games gaming music rhythm</tags>
+  </metadata>
+</package>
