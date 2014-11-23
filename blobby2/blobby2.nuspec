@@ -12,4 +12,7 @@
     <description>Official continuation of the famous Blobby Volley 1.x arcade game.</description>
     <tags>gaming games game volleyball</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

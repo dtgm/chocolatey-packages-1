@@ -12,4 +12,7 @@
     <description>SkiFree is a game where the player skis down an endless slope and avoids obstacles.</description>
     <tags>game games gaming windows</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

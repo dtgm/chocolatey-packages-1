@@ -13,4 +13,7 @@
     <description>osu! is a free-to-play online rhythm game.</description>
     <tags>game games gaming music rhythm</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

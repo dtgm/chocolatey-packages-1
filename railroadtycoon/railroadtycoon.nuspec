@@ -12,4 +12,7 @@
     <description>Sid Meier's Railroad Tycoon is a business simulation designed by Sid Meier.</description>
     <tags>gaming games sid meier railroad tycoon trains simulator</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

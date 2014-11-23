@@ -13,4 +13,7 @@
     <description>SkyFonts is a lightweight, patent-pending utility that allows you to effortlessly install desktop fonts and sync them on up to five of your devices.</description>
     <tags>google fonts cloud monotype</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

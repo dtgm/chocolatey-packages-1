@@ -12,4 +12,7 @@
     <description>Games for Windows Live is an online gaming service used by some games.</description>
     <tags>windows drm marketplace gaming xbox games game</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

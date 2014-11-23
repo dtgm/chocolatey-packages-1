@@ -13,4 +13,7 @@
     <description>League of Legends is a popular multiplayer online battle arena video game.</description>
     <tags>league of legends games gaming moba dota riot</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

@@ -13,4 +13,7 @@
     <description>DOSBox is an MS-DOS emulator used for playing old games.</description>
     <tags>dos windows emulator gaming</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

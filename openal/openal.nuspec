@@ -12,4 +12,7 @@
     <description>OpenAL is a cross-platform audio application programming interface.</description>
     <tags>audio openal games</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

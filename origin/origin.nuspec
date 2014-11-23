@@ -13,4 +13,7 @@
     <description>Origin is a digital distribution and digital rights management system from Electronic Arts.</description>
     <tags>origin ea games gaming dlc</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>
