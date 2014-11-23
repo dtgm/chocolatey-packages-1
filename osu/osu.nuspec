@@ -8,6 +8,7 @@
     <owners>Thai Phan</owners>
     <licenseUrl>http://osu.ppy.sh/p/terms</licenseUrl>
     <projectUrl>http://osu.ppy.sh/</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/thaiphan/chocolatey-packages/fcdf9c84a0bad0b1c756c25ec045d734b69694ce/osu/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>osu! is a free-to-play online rhythm game.</description>
     <tags>game games gaming music rhythm</tags>

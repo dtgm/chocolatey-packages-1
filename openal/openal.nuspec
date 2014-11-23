@@ -7,6 +7,7 @@
     <authors>Creative Technology</authors>
     <owners>Thai Phan</owners>
     <projectUrl>http://connect.creativelabs.com/openal/</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/thaiphan/chocolatey-packages/fcdf9c84a0bad0b1c756c25ec045d734b69694ce/openal/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>OpenAL is a cross-platform audio application programming interface.</description>
     <tags>audio openal games</tags>

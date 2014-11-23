@@ -7,6 +7,7 @@
     <authors>Daniel Knobe, Jonathan Sieber</authors>
     <owners>Daniel Knobe, Jonathan Sieber</owners>
     <projectUrl>http://blobby.sourceforge.net/</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/thaiphan/chocolatey-packages/fcdf9c84a0bad0b1c756c25ec045d734b69694ce/blobby2/icon.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Official continuation of the famous Blobby Volley 1.x arcade game.</description>
     <tags>gaming games game volleyball</tags>
