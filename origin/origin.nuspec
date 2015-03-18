@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>origin</id>
+    <version>1.0.0.0</version>
+    <title>Origin</title>
+    <authors>Electronic Arts</authors>
+    <owners>thaiphan</owners>
+    <licenseUrl>http://tos.ea.com/legalapp/WEBTERMS/US/en/PC</licenseUrl>
+    <projectUrl>http://www.origin.com</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/thaiphan/chocolatey-packages/fcdf9c84a0bad0b1c756c25ec045d734b69694ce/origin/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Origin is a digital distribution and digital rights management system from Electronic Arts.</description>
+    <tags>origin ea games gaming dlc</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

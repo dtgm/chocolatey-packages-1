@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>directx</id>
+    <version>9.0.0.0</version>
+    <title>DirectX</title>
+    <authors>Microsoft</authors>
+    <owners>Thai Phan</owners>
+    <licenseUrl>http://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx</licenseUrl>
+    <projectUrl>http://www.microsoft.com</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/thaiphan/chocolatey-packages/fcdf9c84a0bad0b1c756c25ec045d734b69694ce/directx/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>DirectX is a collection of APIs for handling tasks related to games and videos.</description>
+    <tags>microsoft directx games gaming opengl</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

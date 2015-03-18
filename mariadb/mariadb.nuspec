@@ -12,4 +12,7 @@
         <description>MariaDB is a drop-in replacement for MySQL.</description>
         <tags>mysql database admin mariadb sql</tags>
     </metadata>
+    <files>
+        <file src="tools\**" target="tools" />
+    </files>
 </package>

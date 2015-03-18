@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>railroadtycoon</id>
+    <version>1.0.0.0</version>
+    <title>Sid Meier's Railroad Tycoon</title>
+    <authors>2K Games</authors>
+    <owners>Thai Phan</owners>
+    <projectUrl>http://www.2kgames.com/railroads/</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/thaiphan/chocolatey-packages/fcdf9c84a0bad0b1c756c25ec045d734b69694ce/railroadtycoon/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sid Meier's Railroad Tycoon is a business simulation designed by Sid Meier.</description>
+    <tags>gaming games sid meier railroad tycoon trains simulator</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

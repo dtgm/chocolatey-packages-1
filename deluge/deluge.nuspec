@@ -12,4 +12,7 @@
     <description>Deluge is a full-featured BitTorrent client for Windows.</description>
     <tags>torrent download deluge file sharing</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>

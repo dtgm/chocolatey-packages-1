@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>skifree</id>
+    <version>1.04.0</version>
+    <title>SkiFree</title>
+    <authors>Chris Pirih</authors>
+    <owners>Thai Phan</owners>
+    <projectUrl>http://ski.ihoc.net/</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/thaiphan/chocolatey-packages/fcdf9c84a0bad0b1c756c25ec045d734b69694ce/skifree/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SkiFree is a game where the player skis down an endless slope and avoids obstacles.</description>
+    <tags>game games gaming windows</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

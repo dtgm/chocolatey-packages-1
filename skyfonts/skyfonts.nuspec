@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>skyfonts</id>
+    <version>3.0.0.1</version>
+    <title>SkyFonts</title>
+    <authors>Monotype</authors>
+    <owners>Thai Phan</owners>
+    <licenseUrl>http://skyfonts.com/license-agreement</licenseUrl>
+    <projectUrl>https://skyfonts.com</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/thaiphan/chocolatey-packages/fcdf9c84a0bad0b1c756c25ec045d734b69694ce/skyfonts/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SkyFonts is a lightweight, patent-pending utility that allows you to effortlessly install desktop fonts and sync them on up to five of your devices.</description>
+    <tags>google fonts cloud monotype</tags>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

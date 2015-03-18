@@ -11,4 +11,7 @@
     <description>MonoGame is an open source implementation of the Microsoft XNA Framework.</description>
     <tags>gaming games game development xna</tags>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>
